@@ -1,2 +1,2 @@
 # PyScripts
-Python Scripts Repo
+Python Scripts Repository
